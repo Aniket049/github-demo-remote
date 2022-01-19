@@ -2,7 +2,7 @@ def add(x,y): #implementation of addition
     z=x+y
     return z
 def subtract(x,y):  #implementation of substraction
-    z=x-y
+    z=x-y #store the difference between the numbers
     return z
 def multiply(x,y):  #implementation of multiplication
     z=x*y
