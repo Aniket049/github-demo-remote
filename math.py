@@ -1,8 +1,14 @@
 def add(x,y): #implementation of addition
-    pass
+    z=x+y
+    return z
 def subtract(x,y):  #implementation of substraction
-    pass
+    z=x-y
+    return z
 def multiply(x,y):  #implementation of multiplication
-    pass
+    z=x*y
+    return z
 def divide(x,y):
-    pass
+    if(y==0):
+      return DIVIDE_BY_ZERO_ERROR
+    else
+      return x/y
