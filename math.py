@@ -5,7 +5,7 @@ def subtract(x,y):  #implementation of substraction
     z=x-y #store the difference between the numbers
     return z
 def multiply(x,y):  #implementation of multiplication
-    z=x*y
+    z=x*y #multiplication from local repo
     return z
 def divide(x,y):
     if(y==0):
