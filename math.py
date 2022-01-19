@@ -9,6 +9,6 @@ def multiply(x,y):  #implementation of multiplication
     return z
 def divide(x,y):
     if(y==0):
-      return DIVIDE_BY_ZERO_ERROR
+      return DIVIDE_BY_ZERO_ERROR #just to check branch in git
     else
       return x/y
